@@ -1,0 +1,2 @@
+language = "bash"
+run = "pip install bidict; python prag.py"
